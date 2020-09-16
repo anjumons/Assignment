@@ -1,2 +1,2 @@
 # Assignment
-An Angular application without using any external libraries
+An Angular application without using any external libraries for styling elements.
